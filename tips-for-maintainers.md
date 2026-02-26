@@ -15,7 +15,8 @@ Ideally your contributor documentation should cover:
 - **How the codebase is organized:** a brief map of what lives where and why
 - **A Code of Conduct:** how the community members are expected to behave as both contributors and reviewers
 - **GenAI policies for PRs:** increasingly, students and contributors will be using GenAI tools to contribute to your project. Note how you plan to review these contributions and if there are any restrictions on using GenAI to contribute to your codebase.
-    - You may want to combine any policies for GenAI with policies on what you consider to be an appropriate PR. 
+    - You may want to combine any policies for GenAI with policies on what you consider to be an appropriate PR.
+    - [See this repository](https://github.com/melissawm/open-source-ai-contribution-policies) for examples of how other open source projects like Arrow and Curl are accepting contributions that utilize GenAI
 
 GitHub provides excellent documentation on [setting up contributing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) and Nadia Asparouhova has created an [excellent contributing guide template](github.com/nayafia/contributing-template) that you can copy and customize to quickly get started.
 
